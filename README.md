@@ -4,7 +4,7 @@ Submitted by: **Sayyid Sannoh**
 
 About this web app: **This Web App is a continuation of the previous project I worked on in CodePath WEB101 called LIBVIBES, but updated.**
 
-Time spent: **4** hours
+Time spent: **1** hour
 
 ## Required Features
 
@@ -35,14 +35,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Here's a walkthrough of implemented required features: https://www.loom.com/share/0a19a007ff9647c5a98075c87097dd44
 
 ## Notes
 
